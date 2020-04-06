@@ -8,7 +8,7 @@
 
 ## 访问方式
 
-- cnguu：GitHub 账号
+- moyanxiaoq：GitHub 账号
 
 - pic：仓库名
 
